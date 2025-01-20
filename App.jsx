@@ -5,7 +5,7 @@ import './global.css';
 const App = () => {
   return (
     <View className="flex-1 items-center justify-center bg-black">
-      <Text className="text-3xl text-red-900">App</Text>
+      <Text className="text-3xl text-white">App</Text>
     </View>
   );
 };
